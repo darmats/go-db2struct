@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
+	"github.com/seiji/go-db2struct"
 	"github.com/urfave/cli"
-	db2struct "github.com/seiji/go-db2struct"
 )
 
 var (
